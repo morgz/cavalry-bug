@@ -24,3 +24,5 @@ This project demonstrates a bug in `script-to-run.js` where adding a video asset
 
 - Ensure that the active composition is available before running the script.
 - Check the console for any error messages related to invalid footage shape IDs or missing video paths.
+
+Sample footage from Vecteezy.com
